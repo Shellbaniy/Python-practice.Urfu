@@ -1,2 +1,2 @@
 # Python-practice.Urfu
-Python practice
+Python practices are kept here
